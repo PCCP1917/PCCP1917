@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **automation projects**
 
-- 🌱 I’m currently learning **Django & Flutter (Flet)**
+- 🌱 I’m currently learning **Django & Flutter (Flet) & Salesforce**
 
 - 👯 I’m looking to collaborate on **data engineering projects**
 
